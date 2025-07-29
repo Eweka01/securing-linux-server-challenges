@@ -1,0 +1,3 @@
+adminuser:iloveyou!:1001:1001::/home/adminuser:/bin/sh
+
+1 password hash cracked, 0 left

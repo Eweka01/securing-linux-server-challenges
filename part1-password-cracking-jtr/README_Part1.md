@@ -87,7 +87,12 @@ John confirmed the password was cracked and saved internally.
 ## 📸 Screenshots
 
 > All screenshots related to this part are located in:  
-> `./screenshots/`
+<img width="1668" height="405" alt="Screenshot 2025-07-29 at 8 36 42 AM" src="https://github.com/user-attachments/assets/94b5244a-2aec-4708-ac19-a4b4e1946d7e" />
+<img width="3456" height="2234" alt="Screenshot 2025-07-29 at 8 39 30 AM" src="https://github.com/user-attachments/assets/93dcd9ac-fcf7-4f0a-b518-fb221fd163b4" />
+<img width="1655" height="343" alt="Screenshot 2025-07-29 at 9 30 23 AM" src="https://github.com/user-attachments/assets/8edc1a16-9bc1-43d7-9e7b-4206315c2d3b" />
+<img width="3456" height="2234" alt="Screenshot 2025-07-29 at 9 37 54 AM" src="https://github.com/user-attachments/assets/5dae0d97-b89b-4f25-9055-c27a6a1642d3" />
+<img width="1728" height="181" alt="Screenshot 2025-07-29 at 9 38 18 AM" src="https://github.com/user-attachments/assets/1050298b-a41e-4608-85c9-02658699dc44" />
+
 
 ---
 

@@ -26,7 +26,8 @@ This challenge involved:
 
 📁 See: [`part1-password-cracking-jtr/`](./part1-password-cracking-jtr)
 
-📸 Screenshots included for reference and validation.
+
+
 
 ---
 

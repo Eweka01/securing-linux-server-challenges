@@ -9,9 +9,8 @@ This project documents a series of real-world, hands-on challenges I completed t
 | Part | Title                                           | Status     |
 |------|--------------------------------------------------|------------|
 | 1    | Password Cracking with John the Ripper (JTR)    | ✅ Completed |
-| 2    | Detecting Covert Data Using Steganography Tools | 🔜 In Progress |
-| 3    | Vulnerability Scanning with Nmap                | 🔜 Upcoming |
-| 4    | Hardening the Server with Netfilter & Iptables  | 🔜 Upcoming |
+| 2    | Vulnerability Scanning with Nmap                | 🔜 Upcoming |
+| 3    | Hardening the Server with Netfilter & Iptables  |  ✅ Completed  |
 
 ---
 
